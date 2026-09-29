@@ -1,0 +1,1 @@
+# wipro notes of salesforce
